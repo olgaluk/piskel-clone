@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/piskel-clone/static/css/main.4d7a6460.chunk.css",
+    "main.js": "/piskel-clone/static/js/main.36ba762c.chunk.js",
+    "main.js.map": "/piskel-clone/static/js/main.36ba762c.chunk.js.map",
+    "runtime~main.js": "/piskel-clone/static/js/runtime~main.dff1cf59.js",
+    "runtime~main.js.map": "/piskel-clone/static/js/runtime~main.dff1cf59.js.map",
+    "static/js/2.63d0e195.chunk.js": "/piskel-clone/static/js/2.63d0e195.chunk.js",
+    "static/js/2.63d0e195.chunk.js.map": "/piskel-clone/static/js/2.63d0e195.chunk.js.map",
+    "index.html": "/piskel-clone/index.html",
+    "precache-manifest.1001b898891221ef853c3b56b08772b9.js": "/piskel-clone/precache-manifest.1001b898891221ef853c3b56b08772b9.js",
+    "service-worker.js": "/piskel-clone/service-worker.js",
+    "static/css/main.4d7a6460.chunk.css.map": "/piskel-clone/static/css/main.4d7a6460.chunk.css.map",
+    "static/media/Screenshots1.png": "/piskel-clone/static/media/Screenshots1.b2e81a65.png",
+    "static/media/Screenshots2.png": "/piskel-clone/static/media/Screenshots2.6e9d0678.png",
+    "static/media/Screenshots3.png": "/piskel-clone/static/media/Screenshots3.39b3486a.png",
+    "static/media/LandingPage.css": "/piskel-clone/static/media/back1.5e894282.png",
+    "static/media/fullscreen.png": "/piskel-clone/static/media/fullscreen.a2ba5f07.png"
+  }
+}
